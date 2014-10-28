@@ -1,0 +1,10 @@
+# Site settings
+title: Youness's Website
+email: ybenzaid@albany.du
+description: Youness is a font-end devoloper and web-based developer
+url: yckyounessgithub.io
+github_username: yckyouness
+
+# Build settings
+markdown: kramdown
+permalink: pretty
